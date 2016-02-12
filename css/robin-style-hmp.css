@@ -1,0 +1,11 @@
+html {
+	overflow-y:auto;	
+}
+.nav-bar {
+        height:50px;
+        width:100%;
+        background-color:001F29;
+}
+.wrapper {
+	
+}
